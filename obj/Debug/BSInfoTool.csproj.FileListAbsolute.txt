@@ -1,0 +1,15 @@
+C:\Users\GamerF-GT502\Documents\ServerBP\codes\Visual_Studio\BSInfoTool\bin\Debug\BSInfoTool.exe.config
+C:\Users\GamerF-GT502\Documents\ServerBP\codes\Visual_Studio\BSInfoTool\bin\Debug\BSInfoTool.exe
+C:\Users\GamerF-GT502\Documents\ServerBP\codes\Visual_Studio\BSInfoTool\bin\Debug\BSInfoTool.pdb
+C:\Users\GamerF-GT502\Documents\ServerBP\codes\Visual_Studio\BSInfoTool\obj\Debug\BSInfoTool.csproj.AssemblyReference.cache
+C:\Users\GamerF-GT502\Documents\ServerBP\codes\Visual_Studio\BSInfoTool\obj\Debug\BSInfoTool.csproj.SuggestedBindingRedirects.cache
+C:\Users\GamerF-GT502\Documents\ServerBP\codes\Visual_Studio\BSInfoTool\obj\Debug\BSInfoTool.mainScreen.resources
+C:\Users\GamerF-GT502\Documents\ServerBP\codes\Visual_Studio\BSInfoTool\obj\Debug\BSInfoTool.Properties.Resources.resources
+C:\Users\GamerF-GT502\Documents\ServerBP\codes\Visual_Studio\BSInfoTool\obj\Debug\BSInfoTool.csproj.GenerateResource.cache
+C:\Users\GamerF-GT502\Documents\ServerBP\codes\Visual_Studio\BSInfoTool\obj\Debug\BSInfoTool.csproj.CoreCompileInputs.cache
+C:\Users\GamerF-GT502\Documents\ServerBP\codes\Visual_Studio\BSInfoTool\obj\Debug\BSInfoTool.exe
+C:\Users\GamerF-GT502\Documents\ServerBP\codes\Visual_Studio\BSInfoTool\obj\Debug\BSInfoTool.pdb
+C:\Users\GamerF-GT502\Documents\ServerBP\codes\Visual_Studio\BSInfoTool\obj\Debug\BSInfoTool.mapInfoForm.resources
+C:\Users\GamerF-GT502\Documents\ServerBP\codes\Visual_Studio\BSInfoTool\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GamerF-GT502\Documents\ServerBP\codes\Visual_Studio\BSInfoTool\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GamerF-GT502\Documents\ServerBP\codes\Visual_Studio\BSInfoTool\obj\Debug\BSInfoTool.csproj.CopyComplete
